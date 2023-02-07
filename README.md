@@ -1,1 +1,1 @@
-# Hand-written-Digit-recognition-using-KNN-Random-Forest-SVM-Neural-Networks-NN-and-Convoluted-Ne
+# Hand-written-Digit-recognition-using-KNN,RF,CNN.NN
