@@ -1,1 +1,1 @@
-# Hand-written-Digit-recognition-using-KNN,RF,CNN.NN
+# Hand-written-Digit-recognition-using-KNN,RF,CNN.NN,SVM
